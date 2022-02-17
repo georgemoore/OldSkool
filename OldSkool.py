@@ -1,3 +1,6 @@
+# Old_Skool - an experiment in writing an old skool 8-bit graphics demo in python, to help learn Python
+# Old_Skool © 2021 by George Moore is licensed under Attribution-NonCommercial 4.0 International
+
 import pygame
 import math
 import random
